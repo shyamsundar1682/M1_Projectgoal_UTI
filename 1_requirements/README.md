@@ -29,7 +29,7 @@ The tech-based market has a huge opportunities in capturing the youth market. An
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
 # HIGH LEVEL REQUIREMENTS:-
-   ID                  description                 category.
+   
 1.HLR01	User should able to viewe operation list	technical.
 
 2.HLR02	User should able to select the operation	technical.
