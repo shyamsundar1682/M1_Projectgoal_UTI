@@ -12,19 +12,19 @@ Following are the different ways to write a Calculator Program in the C language
 
 # Swot Analysis
 
-# STRENGTHS
+## STRENGTHS
 
 The ultimate strength Calculators is its innovative,user-friendly and long lasting etc..
 
- # WEAKNESSES
+ ## WEAKNESSES
 
 do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
 
-# OPPORTUNITIES
+## OPPORTUNITIES
 
 The tech-based market has a huge opportunities in capturing the youth market. And this calculator comparatively already one step ahead than other
 
-# THREATS
+## THREATS
 
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
