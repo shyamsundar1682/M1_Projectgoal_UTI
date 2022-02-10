@@ -10,3 +10,21 @@ Following are the different ways to write a Calculator Program in the C language
 3. Calculator Program in C using do-while loop and switch statement.
 4. Calculator Program in C using function and switch statement.
 
+# Swot Analysis
+
+# STRENGTHS
+
+The ultimate strength Calculators is its innovative,user-friendly and long lasting etc..
+
+ # WEAKNESSES
+
+do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
+
+# OPPORTUNITIES
+
+The tech-based market has a huge opportunities in capturing the youth market. And this calculator comparatively already one step ahead than other
+
+# THREATS
+
+The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
