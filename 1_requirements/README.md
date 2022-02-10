@@ -28,3 +28,14 @@ The tech-based market has a huge opportunities in capturing the youth market. An
 
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
+# HIGH LEVEL REQUIREMENTS:-
+
+HLR01	User should able to viewe operation list	technical
+HLR02	User should able to select the operation	technical
+HLR03	The system sould able perform the given operation	technical
+HLR04	The system should provide correct result	technical
+
+# LOW LEVEL REQUIREMENTS:-
+
+  ID	Description	Category
+
