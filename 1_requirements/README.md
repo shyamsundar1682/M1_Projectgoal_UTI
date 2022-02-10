@@ -30,13 +30,13 @@ The slower growth in technological innovation will also bring a significant thre
 
 # HIGH LEVEL REQUIREMENTS:-
    
-1.HLR01	User should able to viewe operation list	technical.
+1.HLR01	  User should able to viewe operation list     	      technical.
 
-2.HLR02	User should able to select the operation	technical.
+2.HLR02  	User should able to select the operation           	technical.
 
-3.HLR03	The system sould able perform the given operation	technical.
+3.HLR03	  The system sould able perform the given operation	  technical.
 
-4.HLR04	The system should provide correct result	technical.
+4.HLR04	  The system should provide correct result           	technical.
 
 # LOW LEVEL REQUIREMENTS:-
 
