@@ -5,8 +5,8 @@ This calculator program in C helps the user to enter the Operator (+, -, *, or /
 # Different ways to create a Calculator Program in C
 Following are the different ways to write a Calculator Program in the C language.
 
-Calculator Program in C using the switch statement
-Calculator Program in C using if else if statement
-Calculator Program in C using do-while loop and switch statement
-Calculator Program in C using function and switch statement
+1. Calculator Program in C using the switch statement.
+2. Calculator Program in C using if else if statement.
+3. Calculator Program in C using do-while loop and switch statement.
+4. Calculator Program in C using function and switch statement.
 
