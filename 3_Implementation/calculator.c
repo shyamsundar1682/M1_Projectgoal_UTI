@@ -1,4 +1,5 @@
-#include <stdio.h> 
+#include <stdio.h>
+#include "calculator.h"
 	int addition(); 
 	int subtraction(); 
 	int multiplication(); 
