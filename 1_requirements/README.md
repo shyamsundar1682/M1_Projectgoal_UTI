@@ -14,15 +14,15 @@ Following are the different ways to write a Calculator Program in the C language
 
 ## STRENGTHS
 
-The ultimate strength Calculators is its innovative,user-friendly and long lasting etc..
+The strength to calculate the any numbers with diffrent arthmatic functions.
 
  ## WEAKNESSES
 
-do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
+Do not include any other signs rather than this arithmatic functions (+,-,*,/,%).
 
 ## OPPORTUNITIES
 
-The tech-based market has a huge opportunities in capturing the youth market. And this calculator comparatively already one step ahead than other
+Using the phycical operators this project is huge valuable in market. 
 
 ## THREATS
 
@@ -30,15 +30,15 @@ The slower growth in technological innovation will also bring a significant thre
 
 # HIGH LEVEL REQUIREMENTS:-
    
-1.HLR01	  User should able to viewe operation list     	      technical.
+1  User should able to view operation list.     	      
 
-2.HLR02  	User should able to select the operation           	technical.
+2  User should able to select the operation.           	
 
-3.HLR03	  The system sould able perform the given operation	  technical.
+3  The system sould able perform the given operation.  
 
-4.HLR04	  The system should provide correct result           	technical.
+4. The system should provide correct result.          
 
 # LOW LEVEL REQUIREMENTS:-
 
-  ID	Description	Category
+  User should identify correctly.
 
