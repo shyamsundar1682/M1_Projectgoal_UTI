@@ -1,5 +1,5 @@
 # M1_calculator in-c_UTI
-https://api.codiga.io/project/31367/score/svg
+
 
 ## About the code
 | Codiga | Codiga | 
